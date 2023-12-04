@@ -6,7 +6,7 @@
 - [Contributing](#contributing)
 - [Code Contributors](#code-contributors)
 
-## Project Overview
+## Challenge Overview
 This challenge predict if cryptocurrencies are affected by 24-hour or 7-day price changes by elbow curve and cluster plot.
 
 ## - File Layout
@@ -16,7 +16,7 @@ All links in this section take you directly to the file in the repository.
     - The file contains code that converts the data from csv files into Pandas DataFrames.The data is normalised by scikit-learn. The k value is found by elbow curve. A cluster plot is created by Kmeans. A PCA model is created and fitted, and a elbow curve and a cluster plot are created based on pca data. At the end, elbow curve plots and cluster plots from scaled data and PCA data are compared. 
 
 ### [Resources](Resources)
-- [ev_evc_prototype.csv](Resources/ev_evc_prototype.csv)
+- [crypto_market_data.csv](Resources/crypto_market_data.csv)
     - The dataset contains the price change (In percentage) and name of cryptocurrency. There are 41 rows and 9 columns of data.
     - 
 ## Usage
