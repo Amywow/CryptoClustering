@@ -9,7 +9,7 @@
 ## Challenge Overview
 This challenge predict if cryptocurrencies are affected by 24-hour or 7-day price changes by elbow curve and cluster plot.
 
-## - File Layout
+## File Layout
 All links in this section take you directly to the file in the repository.
 
 - [Crypto_Clustering.ipynb.ipynb](Crypto_Clustering.ipynb)
